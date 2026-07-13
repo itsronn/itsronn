@@ -19,7 +19,9 @@
 
 <br>
 
-<!-- animated contribution graph, refreshed daily by the workflow -->
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,react,fastapi,nodejs,supabase,pytorch,aws,git,linux" />
+
+<br>
 
 
 </div>
