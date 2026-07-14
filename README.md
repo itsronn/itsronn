@@ -13,8 +13,6 @@
 </tr>
 </table>
 
-## Ron Joe
-
 
 [![GitHub](https://img.shields.io/badge/GitHub-itsronn-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsronn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ron--joe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ron-joe/)
@@ -22,7 +20,6 @@
 <br>
 
 ### Tech Stack
-
 <a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://skillicons.dev/icons?i=c" /></a>
 <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" /></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" /></a>
