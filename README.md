@@ -19,6 +19,7 @@
 
 <br>
 
+<!--
 ### Tech Stack
 <a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://skillicons.dev/icons?i=c" /></a>
 <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" /></a>
@@ -33,6 +34,7 @@
 <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" /></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
 <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" /></a>
+-->
 
 <br>
 
